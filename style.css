@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(6, 6, 76);
+    background-color: #01082d;
     font-family: candara;
 }
 h1 {
     font-size: 60px;
-    color: rgb(6, 6, 76);
+    color: #e1bee7;
 }
 p {
     text-align: center;
@@ -14,11 +14,20 @@ a {
     color: white;
     text-decoration: none;
 }
-.container {
-    width: 100%;
-    height: 20%;
-    background-color: rgb(242, 197, 15);
-}
 fieldset {
-    border-color: rgb(242, 197, 15);
+    border-color: #ffd500;
+}
+.keterangan {
+    color: white;
+    font-size: 20px;
+}
+.home {
+    color: white;
+    background-color: #ffd500;
+    padding: 10px;
+    margin: 10px;
+}
+.home:hover {
+    background-color: white;
+    color: #ffd500;
 }
