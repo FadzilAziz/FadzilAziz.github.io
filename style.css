@@ -1,10 +1,11 @@
 h1 {
-    font-size: 80px;
+    font-size: 50px;
 }
 p {
     text-align: center;
-    font-size: 60px;
+    font-size: 30px;
 }
 a {
     color: black;
+    text-decoration: none;
 }
