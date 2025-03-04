@@ -1,6 +1,8 @@
+* {
+    font-family: candara;
+}
 body {
     background-color: #01082d;
-    font-family: candara;
 }
 h1 {
     font-size: 60px;
