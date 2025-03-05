@@ -1,2 +1,2 @@
-alert("hello friends")
-alert("semangat yah belajarnya")
+console.log("hello friends")
+console.log("semangat yah belajarnya")
