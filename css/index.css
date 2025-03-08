@@ -1,37 +1,51 @@
 * {
     font-family: candara;
 }
+
 body {
     background-color: #01082d;
 }
+
 h1 {
     font-size: 60px;
     color: #e1bee7;
     font-family: verdana;
 }
+
 p {
     text-align: center;
     font-size: 30px;
 }
+
 a {
     color: white;
     text-decoration: none;
 }
+
 fieldset {
     border-color: #ffd500;
 }
+
 .keterangan {
     color: white;
-    font-size: 20px;
 }
-.home {
-    font-size: 40px;
-    color: white;
+
+.nav {
     background-color: #ffd500;
     padding: 10px;
-    margin: 10px;
+    margin-top: 0px;
 }
-.home:hover {
-    background-color: white;
-    color: #ffd500;
+
+.navbar {
+    display: inline;
+    margin-left: 15px;
+    height: 20px;
+}
+
+.navbar a:hover {
+    color: #01082d;
+}
+
+.navbar a {
+    font-weight: bold;
 }
