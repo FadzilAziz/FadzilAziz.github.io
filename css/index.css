@@ -50,3 +50,37 @@ fieldset {
     font-weight: bold;
     font-size: 30px;
 }
+
+.sosiologi {
+    color: #eaeaea;
+    background-color: #ffd500;
+    padding: 20px;
+    margin: 10px;
+}
+
+.geografi {
+    color: #eaeaea;
+    background-color: #ffd500;
+    padding: 20px;
+    margin: 10px;
+}
+
+.sosiologi:hover {
+    background-color: transparent;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+}
+
+.sosiologi a:hover {
+    color: #ffd500;
+}
+
+.geografi:hover {
+    background-color: transparent;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+}
+
+.geografi a:hover {
+    color: #ffd500;
+}
